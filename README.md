@@ -1,5 +1,5 @@
 # Food-Ordering-App
-React Food Ordering App
+React- FRONTEND 
 
 ### HOME PAGE
 ![image](https://github.com/shraddha1201/Food-Ordering-App/assets/93818933/782f57a9-2082-4871-930b-0782612081c8)
